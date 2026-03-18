@@ -36,3 +36,4 @@ solver
 maddness
 shocker 
 solution 
+insoluble 
