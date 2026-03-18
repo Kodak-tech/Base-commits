@@ -35,3 +35,4 @@ pedia
 solver
 maddness
 shocker 
+solution 
