@@ -36,7 +36,7 @@ solver
 maddness
 shocker 
 solution 
-insoluble 
+insoluble .
 solute.
 suffer.
 embarrassed .
