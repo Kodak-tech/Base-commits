@@ -32,3 +32,4 @@ gratitude
 solanke
 invest
 pedia
+solver
