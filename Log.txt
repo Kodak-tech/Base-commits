@@ -39,3 +39,4 @@ solution
 insoluble 
 solute
 suffer
+embarrassed 
