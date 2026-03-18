@@ -37,3 +37,4 @@ maddness
 shocker 
 solution 
 insoluble 
+solute
