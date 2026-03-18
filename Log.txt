@@ -39,7 +39,7 @@ solution
 insoluble 
 solute
 suffer
-embarrassed 
+embarrassed .
 weldone.
 solution.
 talkative .
