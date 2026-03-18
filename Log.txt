@@ -32,7 +32,7 @@ gratitude.
 solanke.
 invest.
 pedia.
-solver
+solver.
 maddness.
 shocker 
 solution 9
